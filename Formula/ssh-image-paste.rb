@@ -1,8 +1,8 @@
 class SshImagePaste < Formula
   desc "Paste clipboard images to remote SSH servers from macOS"
   homepage "https://github.com/aikero-labs/ssh-image-paste"
-  url "https://github.com/aikero-labs/ssh-image-paste/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "9d2cd06e0a05d1e27791287377f86d05aade943da2c0f1d04e769aa7a401f9cf"
+  url "https://github.com/aikero-labs/ssh-image-paste/archive/refs/tags/1.0.1.tar.gz"
+  sha256 "c9306434665fa1a191ab9dd43f7edb1f24cce099979be81b00fc2e261d8215ef"
 
   depends_on "pngpaste"
   depends_on :macos
